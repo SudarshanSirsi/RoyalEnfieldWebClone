@@ -4,7 +4,7 @@ body{
 }
 
 #d1{
-    border: 1px solid black;
+    border: 2px solid black;
     height: 72px;
     background-color: #0A0A0A;
     display: flex;
